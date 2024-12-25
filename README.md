@@ -1,2 +1,3 @@
 # students18
-this is my first github repository
+This is my first github repository
+author Rudra upadhyay
